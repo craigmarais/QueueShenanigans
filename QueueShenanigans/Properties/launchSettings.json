@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QueueShenanigans": {
+      "commandName": "Project",
+      "debugEngines": "managed-dotnet,native"
+    }
+  }
+}
